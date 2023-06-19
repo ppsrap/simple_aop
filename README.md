@@ -1,0 +1,2 @@
+# simple_aop 
+This project is built based on the Java 1.8 class library. AOP means: aspect oriented programming, achieving unified maintenance of program functionality through pre compilation and dynamic proxy during runtime. In fact, AOP is also a continuation of OOP, which is a very important content in the Spring framework. Using AOP can isolate various parts of business logic, reduce the coupling of business logic between modules, improve code reusability, and also improve development efficiency.
